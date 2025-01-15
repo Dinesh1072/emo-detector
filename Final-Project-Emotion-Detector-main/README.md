@@ -37,4 +37,3 @@ Perform static code analysis to review your code for potential issues, code qual
 
 By completing these tasks, you will have created a functional emotion detection web application that can be accessed by users on the internet.
 
-Good luck with your project, and don't forget to save screenshots of your results as you progress. These will be required for your peer-graded assignment submission.
